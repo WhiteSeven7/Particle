@@ -1,0 +1,24 @@
+On the screen, the moving elements are particles, which come in 7 colors corresponding to 7 different masses (red being the heaviest, purple the lightest).
+
+On the left side is the control bar. Clicking or using the up and down arrow keys can switch between the following options:
+"Mass", "Angle", "Particle Color", "Mode"
+Each option has several selectable values. The mouse wheel or left and right arrow keys can be used to switch between values. Different combinations of values for these 4 options can produce different effects when using the left mouse button. The effect with the right mouse button is the opposite.
+
+The "Mode" has 3 values: "Gravity," "Particles," and "Barrier." Different options correspond to different effects when the mouse button is pressed.
+
+The size of the "Mass" affects the strength of gravity in "Gravity" mode and the particle generation speed and deletion range (right-click) in "Particles" mode. The size of the "Angle" affects the angle of gravity in "Gravity" mode. The value of "Particle" affects the color of the particles generated and deleted in "Particles" mode.
+
+In addition to the mouse, you can use the following keys to affect the particles:
+Pressing the q or z key creates particles.
+Pressing the w or x key deletes particles (not affected by the "Particle" option).
+Pressing the s key deletes all objects.
+Pressing the number keys 0 to 7 changes the mass (color) of all particles.
+Pressing the a key decelerates particles.
+Pressing the b key accelerates particles.
+Pressing the c key stops particles.
+Pressing the d key makes particles move at high speed.
+Pressing the e key smashes things!
+Pressing the f key reverses time!
+
+Other:
+Right-clicking on the control bar options or pressing the space bar restores default values.

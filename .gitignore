@@ -1,0 +1,5 @@
+/build/
+/dist
+/packVenv
+*.spec
+打包.txt
