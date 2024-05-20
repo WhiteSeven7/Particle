@@ -3,3 +3,4 @@
 /packVenv
 *.spec
 打包.txt
+__pycache__
